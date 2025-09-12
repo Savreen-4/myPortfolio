@@ -171,7 +171,7 @@ const HeroSection = () => {
                 href="/#contact"
                 className="px-6 inline-block py-3 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:from-primary-600 hover:to-secondary-600 text-white font-semibold shadow-lg relative overflow-hidden group"
               >
-                <span className="relative z-10">Contact Me</span>
+                <span className="relative z-10">Contact</span>
                 <motion.div
                   className="absolute inset-0 bg-gradient-to-r from-white/20 to-transparent"
                   initial={{ x: "-100%" }}
@@ -239,7 +239,7 @@ const HeroSection = () => {
                 transition={{ duration: 0.3 }}
               >
                 <Image
-                  src="/images/savreen.jpg"
+                  src="/images/savreen.png"
                   alt="hero image"
                   className="w-full h-full object-cover"
                   width={300}
