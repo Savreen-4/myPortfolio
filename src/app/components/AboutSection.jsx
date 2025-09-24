@@ -9,14 +9,15 @@ const TAB_DATA = [
     id: "skills",
     content: (
       <ul className="list-disc pl-2">
-        <li>JavaScript (ES6+), TypeScript</li>
-        <li>React.js, Next.js, Redux</li>
-        <li>Node.js, Express.js, Loopback, Microservices</li>
         <li>MongoDB</li>
-        <li>Payment Gateway Integration: Stripe, Razorpay</li>
         <li>Git, GitHub</li>
+        <li>React.js, Next.js, Redux</li>
+        <li>JavaScript (ES6+), TypeScript</li>
         <li>AWS (Hosting, Deployment, Cloud Services)</li>
+        <li>Identity Verification Integration: Sumsub</li>
         <li>Project Management: Jira, Basecamp, Trello</li>
+        <li>Node.js, Express.js, Loopback, Microservices</li>
+        <li>Payment Gateway Integration: Stripe, Razorpay, Fundpay24</li>
       </ul>
     ),
   },
