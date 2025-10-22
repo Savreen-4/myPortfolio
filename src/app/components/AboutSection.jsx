@@ -17,7 +17,7 @@ const TAB_DATA = [
         <li>Identity Verification Integration: Sumsub</li>
         <li>Project Management: Jira, Basecamp, Trello</li>
         <li>Node.js, Express.js, Loopback, Microservices</li>
-        <li>Payment Gateway Integration: Stripe, Razorpay, Fundpay24</li>
+        <li>Payment Gateway Integration: Stripe, Razorpay, Fundpay24, Match2Pay</li>
       </ul>
     ),
   },
